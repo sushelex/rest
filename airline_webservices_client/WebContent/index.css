@@ -1,0 +1,169 @@
+@CHARSET "ISO-8859-1";
+body
+{
+	background-color: #003366;
+}
+
+.place
+{
+	background-color: green;
+}
+
+#div1
+{
+	position: absolute;
+	left:190px;
+	height: 63px;
+	right: 8px;
+	top: 4px;
+}
+#div2
+{
+	position: absolute;
+	top:80px;
+	left:10%;
+	right:0%;
+	bottom:0%;
+	background-color: #e6e6e6;
+}
+.bar1
+{
+	position:absolute;
+	background-color: #FF9900;
+}
+#div3
+{
+
+	left:0px;
+	width: 50%;
+	height: 5%;
+}
+#div4
+{
+	right: 0%;
+	height: 5%;
+	width: 50%;
+	background-color: #003366;
+}
+
+#inner
+{
+	position:absolute;
+	right:0px;
+	width: 70%;
+	height: 100%;
+	margin-right: 5px;
+}
+
+.btn
+{
+
+	top :0px;
+	width: 20%;
+	border: 1 px soild #003366;
+	height: 95%;
+	background-color: #FF9900;
+	text-align: center;
+	float: right;
+	margin-right: 5px;
+	margin-bottom: 3px;
+} 
+
+.dash
+{
+	position:absolute;
+	top:20px;
+}
+#heading
+{
+	color: blue;
+	font-family: fantasy;
+}
+.innerArea
+{
+	position: absolute;
+	left: 25%;
+	top:30%;
+	background-color: green;
+	width: 50%;
+	height: 65%;
+}
+#to1
+{
+	position: absolute;
+	left: 10%;
+	top:20%;
+}
+#from1
+{
+	position: absolute;
+	right: 10%;
+	top:20%;
+}
+#from
+{
+	position: absolute;
+	top:25%;
+	left: 10%;
+}
+#to
+{
+	position: absolute;
+	top:25%;
+	right: 10%;
+	
+}
+#date
+{
+	position: absolute;
+	top: 35%;
+	left: 10%;
+}
+#choose
+{
+	position: absolute;
+	top: 42%;
+	left: 10%;
+}
+#adults
+{
+	position: absolute;
+	top:60%;
+	left: 10%;
+}
+#children
+{
+	position: absolute;
+	top:60%;
+	left: 40%;
+}
+#infants
+{
+	position: absolute;
+	top:60%;
+	left: 70%;
+}
+#adult_drop
+{
+	position: absolute;
+	top:65%;
+	left: 10%;
+}
+#children_drop
+{
+	position: absolute;
+	top:65%;
+	left: 40%;
+}
+#infants_drop
+{
+	position: absolute;
+	top:65%;
+	left: 70%;
+}
+#submit
+{
+	position: absolute;
+	top:85%;
+	left: 45%;
+}
